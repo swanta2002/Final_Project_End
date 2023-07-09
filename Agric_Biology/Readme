@@ -1,0 +1,71 @@
+# README
+
+Crop pest, production and yield analysis for a select districts in India, Python, Pandas, Numpy, MYSQL, Tableau, Data Science, Machine Learning etc.
+
+Overview:
+The Dataset offers a wealth of historical crop data, enabling researchers, scientists to analyze and understand crop production and factors mitigating yield. With a vast collection of records spanning multiple years, the dataset serves as a valuable resource for in-depth exploration and analysis.
+
+A BooCamp(IronHack) final Project to ascerain student's comprehension of lessons learned. Data is acquired from competent sources like Kaggol and ICRISAT, they are cleaned through standardization, checking and handling NaNs. Data saved as csv, the groupby function is used  to align the data for merging, and merged data is used for Eploratory data Analysis(EDA) and modelling.
+
+Standardised data is put to use by creating plots to check normality, skewness etc., and adjustments are made to the data by checking for correlation and binning them while creating histograms. Probability densitz plots also created to add understanding to the data for easy communication and inferences with regards crop zield and diseases in the select cities districts.
+
+Furthermore, data is modelled using linear and random forest regression for predicting pest value and yield for the select districts. Finally, data is further visualised with the help of Tableau to enhance the story telling process during presentation.
+
+Key Steps:
+
+The following steps are covered:
+
+. Jupyter NoteBook(Python) for anylysis
+
+. Git and Git WorkFlow:
+
+  . git add
+  
+  . git commit
+  
+  . git branch
+  
+  . git push
+  
+  . git push
+  
+ Objectives:
+ 
+ . Checking and building on previous knowledge
+ 
+ . Exploring the usage of Python tools, and Tableau
+ 
+ . Using same tools to work on the data in order to tell a story that ordinarily cannot be seen by just looking at the raw data
+ 
+ . To demonstrate how story telling gives meaning to the data and intension of the analyst through visualisation. 
+ 
+ Features:
+
+Temperature: Average temperature measurements in Celsius.
+
+Precipitation: Rainfall amounts in millimeters.
+
+Humidity: Relative humidity in percentage.
+
+Wind Speed: Wind speed in kilometers per hour.
+
+Sun Shone: Sun Shine in Hours
+
+Evaporation: Evaporation in millimeters
+
+Location
+
+Peat Value and Pest
+
+Yield, Production and Area
+  
+  
+Presentation Link:
+
+https://docs.google.com/presentation/d/1s0r6zLaqpSHQjDv8McMY09ER3kQyM-Z7DOq5EdS9AB8/edit#slide=id.p
+
+Citation:
+
+https://www.kaggle.com/datasets/zsinghrahulk/rice-pest-and-diseases
+
+http://data.icrisat.org/dld/
